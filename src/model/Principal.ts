@@ -94,7 +94,7 @@ export abstract class Principal {
 
 
         console.log("***********************************************")
-        console.log("Produto")
+        console.log("                   Produto                     ")
         console.log("***********************************************")
         console.log(`Id do produto: ${this._id}`)
         console.log(`Nome do produto: ${this._nome}`)

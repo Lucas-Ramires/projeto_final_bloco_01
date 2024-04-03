@@ -28,7 +28,7 @@ export class Hardware extends Principal {
 
     public visualizar(): void {
         super.visualizar()
-        console.log(`Periferico: ${this._hardware}`)
+        console.log(`Hardware: ${this._hardware}`)
 
     }
 
